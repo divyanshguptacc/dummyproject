@@ -1,6 +1,6 @@
 # As a developer, I want to create a pull request for test code
 
-<!-- verity-story-sync {"storyId":"e3421f33-07ca-459a-a003-c4521711291a","version":2,"origin":"verity"} -->
+<!-- verity-story-sync {"storyId":"e3421f33-07ca-459a-a003-c4521711291a","version":3,"origin":"verity"} -->
 
 - Story ID: `e3421f33-07ca-459a-a003-c4521711291a`
 - Status: `proposed`
